@@ -25,6 +25,9 @@ El sistema busca facilitar la administración diaria, la trazabilidad de envíos
    - Contraseña segura
 5. Acceder al panel de administración (`http://localhost/wp-admin`) y verificar que todo funcione.
 
+> **Nota:** Cada integrante del equipo documentó su propia instalación y los usuarios creados en la **[Wiki del proyecto](https://github.com/devcordoba/logisticom-2do-cuatrimestre-CMS/wiki)**.  
+> Se recomienda revisar la Wiki para ver las capturas de pantalla y detalles de configuración de cada miembro.
+
 ---
 
 ## Requisitos y Tecnologías Utilizadas
